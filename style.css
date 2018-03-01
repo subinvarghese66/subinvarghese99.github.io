@@ -40,8 +40,6 @@ body{
 	border-radius: 25px;
 	background-color: rgba(255,0,0,1);
 	font-family: 'Montserrat', sans-serif;
-	border-color: red;
-	border-width: 1px;
 	-ms-transform: scale(1.05,1.05); /* IE 9 */
     -webkit-transform: scale(1.05,1.05); /* Safari */
     transform: scale(1.05,1.05); /* Standard syntax */
